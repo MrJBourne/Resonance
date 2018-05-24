@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/shaders/RippleWater.shader">
+    <Files>
+      <File FileName="Assets/Scripts/collisionScript.cs" Line="238" Column="2" />
+      <File FileName="Assets/Scripts/lightAdjuster.cs" Line="7" Column="23" />
+      <File FileName="Assets/Scripts/moveLocaction.cs" Line="28" Column="4" />
+      <File FileName="Assets/shaders/deans_ripple.shader" Line="145" Column="4" />
+      <File FileName="Assets/shaders/dissolve.shader" Line="64" Column="5" />
+      <File FileName="Assets/shaders/RippleWater.shader" Line="63" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,17 @@
+/Users/Deeaan/waveGenerator/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Deeaan/waveGenerator/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Deeaan/waveGenerator/obj/Debug/Assembly-CSharp.dll
+/Users/Deeaan/waveGenerator/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/Deeaan/waveGenerator/Temp/bin/Debug/UnityEngine.dll
+/Users/Deeaan/waveGenerator/Temp/bin/Debug/UnityEditor.dll
+/Users/Deeaan/waveGenerator/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Deeaan/waveGenerator/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Deeaan/waveGenerator/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Deeaan/waveGenerator/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Deeaan/waveGenerator/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Deeaan/waveGenerator/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Deeaan/waveGenerator/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Deeaan/waveGenerator/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Deeaan/waveGenerator/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Deeaan/waveGenerator/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Deeaan/waveGenerator/Temp/bin/Debug/Mono.Cecil.Mdb.dll
